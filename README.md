@@ -1,3 +1,1 @@
-# test
-
-これはテスト
+Read dry_run.md first
